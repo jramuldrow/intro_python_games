@@ -7,4 +7,5 @@ choose a  castel to enter.
 Total time is takes to play is like 1-2mins. 
 Play a few times to see how your odds play out, how many times can you survive.
 
-
+Gusses_number game, is where you have up to 10 chances to guess a number
+that the comupter is thinkning of. Numbers are between 1 - 100. good luck.
